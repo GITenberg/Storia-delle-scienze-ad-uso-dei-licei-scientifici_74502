@@ -1,0 +1,29 @@
+_repo: Storia-delle-scienze-ad-uso-dei-licei-scientifici_74502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barbagallo, Corrado
+    birthdate: 1877
+    deathdate: 1952
+    gutenberg_agent_id: '56853'
+    url: http://www.gutenberg.org/2009/agents/56853
+    wikipedia: https://it.wikipedia.org/wiki/Corrado_Barbagallo
+description: ''
+gutenberg_issued: '2024-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74502'
+language: it
+pgterms:marc905: 20230408082853barbagallo
+pgterms:marc906: '1925'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aMilano :$bDante Alighieri, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Storia delle scienze ad uso dei licei scientifici
+url: http://www.gutenberg.org/ebooks/74502
