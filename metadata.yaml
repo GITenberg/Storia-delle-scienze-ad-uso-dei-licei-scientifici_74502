@@ -1,5 +1,8 @@
 _repo: Storia-delle-scienze-ad-uso-dei-licei-scientifici_74502
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74502-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbagallo, Corrado
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56853
     wikipedia: https://it.wikipedia.org/wiki/Corrado_Barbagallo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74502#Storia-delle-scienze-ad-uso-dei-licei-scientifici
 gutenberg_issued: '2024-10-01'
 gutenberg_type: Text
 identifiers:
